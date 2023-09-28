@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.translator {
+  margin: 5rem auto;
+  padding: 1rem;
+  width: 550px;
+  height: 300px;
+}
+
+.result {
+  display: flex;
+}
+
+.uzb {
+  width: 50%;
+  text-align: center;
+}
+
+.eng {
+  width: 50%;
+  text-align: center;
+}
+
+label {
+  width: 100%;
+  font-size: 39px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  width: 90%;
+  border: 1px solid rgb(187, 187, 187);
+  border-radius: 15px;
+  font-size: 23px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.btn {
+  margin: 1rem 25%;
+  padding: 0.5rem;
+  width: 50%;
+  background: none;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  border: 5px solid rgb(79, 79, 255);
+  border-radius: 25px;
+  color: rgb(79, 79, 255);
+}
+
+.btn:hover {
+  background-color: rgb(79, 79, 255);
+  color: white;
+}
+
+/* // // Apple - Olma
+// Banana - Banan
+// Orange - Apelsin
+// Grape - Uzum
+// Lemon - Limon
+// Lime - Limon
+// Strawberry - Qulupnay
+// Blueberry - Golubika
+// Raspberry - Malina
+// Blackberry - Qoraqat
+// Cherry - Olcha
+// Peach - Shaftoli
+// Plum - Olxo'ri
+// Apricot - O'rik
+// Watermelon - Tarvuz
+// Cantaloupe - Mushkli qovun
+// Pineapple - Ananas
+// Mango - Mango
+// Papaya - Papaya
+// Coconut - Kokos
+// Avocado - Avokado
+// Kiwi - Kivi
+// Pomegranate - Anor
+// Fig - Anjir
+// Persimmon - Xurmo
+// Guava - Guava
+// Passion fruit - Ehtiros mevasi
+// Cranberry - klyukva
+// Elderberry - Buzina mevasi
+// Gooseberry - Krijovnik
+// Tangerine - Mandarin
+// Grapefruit - Greyfrut
+// Lychee - Lychee
+// Dragon fruit - Ajdarho mevasi
+// Star fruit - Yulduz mevasi
+// Paprika - Garmdori
+// Cucumber - Bodring
+// Eggplant - Baqlajon
+// Zucchini - Qovoqcha
+// Pumpkin - Qovoq
+// Olive - Zaytun
+// Potato - Kartoshka
+// Onion - Piyoz
+// Garlic - Sarimsoqpiyoz
+// Carrot - Sabzi
+// Bell Pepper - Bolgar qalampiri
+// Spinach - Ismaloq
+// Lettuce - Salat
+// Broccoli - Brokoli
+// Cauliflower - Gulkaram
+// Cabbage - Karam
+// Brussels Sprouts - Bryussel novdalari
+// Green Beans - Yashil loviya
+// Peas - no'xat
+// Corn - Kukuruz
+// Radish - Turp
+// Beet - Lavlagi
+// Turnip - Sholg'om
+// Sweet Potato - Shirin Kartoshka
+// Celery - Seldr
+// Asparagus - Sarsabil
+// Leek - Ko'k piyoz
+// Okra - Okra
+// Artichoke - Artishok
+// Cilantro - Cilantro
+// Parsley - Petrushka
+// Dill - Arpabodiyon
+// Chives - Chives
+// Ginger - Zanjabil
+// Squash - Skoush
+// Mushroom - Qo'ziqorin
+// Radicchio - Radikkio
+// Kale - Qayla
+// Swiss Chard - Shveytsariya chard
+// Watercress - suv teresi
+// Bok Choy - Bok
+// Romaine Lettuce - Rimcha salad
+// Arugula - Rukkola
+// Mustard Greens - Xantal ko'katlari
+// Napa Cabbage - Napa karam
+// Snow Peas - Qor no'xati
+// Jicama - Jikama
+// Fennel - Arpabodiyon */
